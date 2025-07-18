@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @neumann-lukas
-- 👀 I’m interested in python, math and physic related problems
-- 🌱 I’m currently learning python, java and everything that crosses my mind
-- 📫 How to reach me via e-mail (lukas1neumann@gmail.com)
-- 🌐 neumann-lukas.github.io
+
